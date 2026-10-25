@@ -91,6 +91,12 @@ The dashboard includes:
 - **Monthly Sales & Profit Trend:** Changes in sales and profit over time.
 - **Order Status Distribution:** Breakdown of orders by status.
 
+## 📊 Dashboard Preview
+
+![Supply Chain & Inventory Analytics Dashboard](screenshots/supply-chain-dashboard.png)
+
+*Interactive Power BI dashboard analyzing inventory, warehouse performance, supplier efficiency, and product profitability.*
+
 ## Key Findings
 
 Based on the synthetic dataset:
